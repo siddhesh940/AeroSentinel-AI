@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.env.local
+.env
+__pycache__/
+*.pyc
+ml-service/venv/
+ml-service/.env
+.vercel
+*.tsbuildinfo
